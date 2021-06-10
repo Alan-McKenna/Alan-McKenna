@@ -6,7 +6,9 @@
 
 I'm [Alan](#), a software engineer that loves Go and improving software practices in teams. 
 
-Got any spare time? Luckily for you I've been writting my thoughts down here. So you too can now spend endless hours reading through my ~~dull~~ entertaining and ~~opinionated~~ educating content. Yayy!
+Got any spare time? Luckily for you I've been writting my thoughts down here. So you too can now spend endless hours reading through my ~~dull~~ content. 
+
+~~Yayy! Yet another opinionated software engineer that thinks the sun shines out his...~~.
 
 
 📊 **This Week I Spent My Time On:**
